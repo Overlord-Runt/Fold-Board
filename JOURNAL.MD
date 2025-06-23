@@ -27,3 +27,9 @@ I still need to add silkscreen so its not technically done but functionality is 
 
 Anyways explaining the keyboard.
 
+Its a normal keyboard thats about 75%ish idk it has 84 keys. 
+it folds and has 16 wires to connect it together
+
+![pcb](assets/pcb.png)
+
+Hours spent: 4
