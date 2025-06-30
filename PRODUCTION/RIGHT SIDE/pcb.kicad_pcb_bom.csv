@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Pins
+"D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D65, D66, D67, D68",33,D_Small,D_DO-35_SOD27_P7.62mm_Horizontal,,,,tht,"Diode, small symbol",D,1=K 2=A
+J1,1,Conn_01x04_Pin,PinSocket_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated",,
+"SW34, SW35, SW36, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW49, SW50, SW51, SW52, SW53, SW54, SW55, SW56, SW57, SW58, SW59, SW60, SW61, SW65, SW66, SW67, SW68",32,SW_Push,SW_Cherry_MX_1.00u_PCB,,,,tht,,,
+SW62,1,SW_Push,SW_Cherry_MX_2.00u_PCB,,,,tht,"Push button switch, generic, two pins",,
