@@ -13,6 +13,5 @@
 - 1 large rubber band - $3.28 - [SOURCE](https://www.aliexpress.com/item/1005007589123213.html?spm=a2g0o.productlist.main.15.2cac6270nstYeq&algo_pvid=eb5341a4-beca-4167-bbb9-d52b956e201d&algo_exp_id=eb5341a4-beca-4167-bbb9-d52b956e201d-12&pdp_ext_f=%7B%22order%22%3A%22276%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21AUD%2115.61%214.99%21%21%2172.18%2123.10%21%402101c5ac17513589453675455ed2fd%2112000041645730875%21sea%21AU%216138339337%21X&curPageLogUid=tH5sVpkR39DH&utparam-url=scene%3Asearch%7Cquery_from%3A)
 - 8 M3D5L6 Heatsets - $2.27 - [SOURCE](https://www.aliexpress.com/item/1005003582355741.html?spm=a2g0o.order_list.order_list_main.29.43e81802OMJWCy)
 - 8 M3 30mm long screws - $3.42 - [SOURCE](https://www.aliexpress.com/item/32810852732.html?spm=a2g0o.order_list.order_list_main.53.13191802B8kPkm)
-- 
 
 Total Cost(USD):
