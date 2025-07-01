@@ -14,4 +14,4 @@
 - 8 M3D5L6 Heatsets - $2.27 - [SOURCE](https://www.aliexpress.com/item/1005003582355741.html?spm=a2g0o.order_list.order_list_main.29.43e81802OMJWCy)
 - 8 M3 30mm long screws - $3.42 - [SOURCE](https://www.aliexpress.com/item/32810852732.html?spm=a2g0o.order_list.order_list_main.53.13191802B8kPkm)
 
-Total Cost(USD):
+Total Cost(USD): $90.74
