@@ -13,6 +13,8 @@ It folds!
 
 and fits nicely in a bag
 
+Total Time spent: 25
+
 ## 13th of June
 
 Did the entire pcb in one day.
