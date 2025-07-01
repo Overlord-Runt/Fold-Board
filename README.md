@@ -42,7 +42,7 @@ This keyboard uses QMK firmware that can be found in the firmware folder. Unfort
 This was probably my fastest firmware built ever. Its all thanks to github copilot. It completely gets rid of all the zombie work. I can finally be free. There is no greater blessing to the world.
 
 ## BOM
-BOM can be found [here](https://github.com/Overlord-Runt/Fold-Board/blob/main/PRODUCTION/BOM.md) but here is a general list:
+BOM can be found [here](https://github.com/Overlord-Runt/Fold-Board/blob/main/BOM.md) but here is a general list:
 - 66 MX Switches
 - 66 diodes
 - 2 2U stablisers
