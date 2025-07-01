@@ -19,7 +19,7 @@ The case is 44cm tall when layed flat out which is pretty good for a folding boa
 
 Here are some shots of what it looks like open and folded.
 
-I spent
+I spent majority of my time here going through different renditions of the bridge and trying different ways to make the fold work while keeping it as a keyboard that it viable to use.
 
 ## PCB
 
