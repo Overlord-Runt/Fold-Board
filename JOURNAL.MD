@@ -114,7 +114,7 @@ I just realised that I need to have some sort of thing to hold it together.
 
 So I made a bit that uses a rubber band to hold
 
-![djf](assets/folded)
+![djf](assets/folded.png)
 
 Looks like that for now. might change if it doesnt work
 
