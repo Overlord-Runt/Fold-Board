@@ -64,4 +64,64 @@ i put 4 rows instead of 5
 
 time to start from scratch again. YAAYAYAYAYA
 
-anyways did lots of work today on my case, went through a few designs, got some of the nitty gritty down
+anyways did lots of work today on my case, went through a few designs, got some of the nitty gritty down, also did a few touches on the pcb but nothing significant.
+
+Time spent: 4 hours
+
+## 23rd of June
+
+Today I went through some designs for the bridge of the 2 halves.
+
+![boo](assets/cad3.png)
+
+This is what I was originally going for but that doesn't really fit well with the rest of the model. so then I tried a different one.
+
+![njfnj](assets/cad4.png)
+
+This one is more straightforward and allows me to make it a bit slimmer. idk if i mentioned this before but i want to be able to push these 2 halves together when it lays on a table. to the bridge needs to be able to fit in the case.
+
+In the end I just settled for a completely flat bridge. I had the curve before because it would go around the top plate but now I had shortened the pcb and plate in order to give the bridge room to sit.
+
+Time Spent: 5 hours
+
+## 29th of June
+
+Okay time to start grinding ts.
+
+I polished up on the case and started adding final details with usb port placement and added the proper placements for keycaps and added my logo onto it.
+
+## Time spent: 2 hours
+
+## 30th of June
+
+Firmware time!
+
+I reinstalled mac and turns out my mac is too old to install qmk so I cant compile code and have to copy paste previous firmware folders and then change the pins and keymaps. Also github copilot is soooooooo good. i love it i love it i love it
+
+It saved me soooooo much time with firmware writing.
+
+it does all the zombie work for you
+
+Sure it has a few hiccups but its still amazing
+
+Time spent: 2 hours
+
+## 1st of June 
+
+I just realised that I need to have some sort of thing to hold it together.
+
+So I made a bit that uses a rubber band to hold
+
+![djf](assets/folded)
+
+Looks like that for now. might change if it doesnt work
+
+Then I made my BOM by scouring for a bit on aliexpress but most of the stuff was easy to find since i have made a board before and I just used the same places.
+
+Then the readme. That was nice. I think it looks nice, better than my last one at least
+
+Time spent 4 hours
+
+## 2nd of June
+
+Submitted :D
