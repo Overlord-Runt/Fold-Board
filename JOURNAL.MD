@@ -56,7 +56,7 @@ total time across these days is like 2 hours max
 
 I am actually stupid.
 
-![bah](assets/cad2.png)
+![bah](assets/cad1.png)
 
 can you spot the problem here?
 
