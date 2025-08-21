@@ -13,7 +13,7 @@ It folds!
 
 and fits nicely in a bag
 
-Total Time spent: 25
+Total Time spent: 38
 
 ## 13th of June
 
@@ -127,3 +127,46 @@ Time spent 4 hours
 ## 2nd of June
 
 Submitted :D
+
+## 17th of July
+
+Came back from underity and am pooped. the parts arrived a bit back just after I left. anyways i will update
+
+## 18th of July
+Soldered the pcb and printed the case.
+Kinda messed up the screw holes so need to fix that
+
+hours spent: 5
+
+## 20th of July
+
+Finished the base and now I need to make Keycaps. but will put it off a bit to finish my other project
+
+hours spent: 2
+
+## 2nd Of August
+
+Made half the keycaps and it took me so long to line everything up :sob:
+
+But they didnt even fit :(
+ It fits enough to stay on but not enough to go all the way down on the stem. going to have to add more tolerance to it.
+
+anyways that sucks but meh. imma take a break for a bit cuz im not bothered rn
+
+Time spent: 2 hours
+
+## 13th of August
+
+My printer had a poop of death :sob:
+
+Im cooked
+
+# 21st of august
+
+Replaced the centre wires with longer ones because they kept snapping. also made paper keycaps because I cant do printed ones. I just stuck them on with blu tack.
+
+Anyways done :)
+
+![aasd](assets/buildopen.jpg)
+
+Time Spent: 4 hours
