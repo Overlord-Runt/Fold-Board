@@ -1,6 +1,6 @@
-# Fold Board
+mm# Fold Board
 Made By Overlord Runt // Taran The Idiot
-![start](assets/caddy.png)
+![start](assets/buildopen.jpg)
 
 ## The Fold Board
 Its the second keyboard in my line of Taranium boards. It is a keyboard that folds! It has 66 Keys and an OLED for funny stuff.
